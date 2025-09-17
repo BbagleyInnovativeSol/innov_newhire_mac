@@ -30,5 +30,6 @@ brew install sevenzip
 
 # Personal 
 brew install jq
-brew install uv #Rust built python package manager with virtualenv and dependency management
+brew install uv #Rust built python package manager with virtualenv and dependency eanagement
+brew install gh
 
